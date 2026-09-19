@@ -11,3 +11,8 @@ public class Addition2 {
         System.out.println("Addition of " + a + " + " + b + " = " + jumlah);
     }
 }
+
+
+## Output
+    }
+}
