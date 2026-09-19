@@ -1,6 +1,3 @@
-# Belajar-Java
-Program tambah 10 + 20
-
 ## Code (Addition2.java)
 ```java
 public class Addition2 {
@@ -11,8 +8,9 @@ public class Addition2 {
         System.out.println("Addition of " + a + " + " + b + " = " + jumlah);
     }
 }
-
+```
 
 ## Output
-    }
-}
+```
+Addition of 10 + 20 = 30
+```
