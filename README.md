@@ -2,8 +2,8 @@
 ```java
 public class Addition2 {
     public static void main(String[] args) {
-        int a = 10;
-        int b = 20;
+        int a = 60;
+        int b = 40;
         int jumlah = a + b;
         System.out.println("Addition of " + a + " + " + b + " = " + jumlah);
     }
@@ -12,5 +12,5 @@ public class Addition2 {
 
 ## Output
 ```
-Addition of 10 + 20 = 30
+Addition of 60 + 40 = 100
 ```
