@@ -1,3 +1,8 @@
+# Belajar-Java
+Program tambah 10 + 20
+
+## Code (Addition2.java)
+```java
 public class Addition2 {
     public static void main(String[] args) {
         int a = 10;
