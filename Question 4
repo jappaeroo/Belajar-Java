@@ -1,0 +1,15 @@
+## Code (Addition2.java)
+```java
+public class Question4 {
+    public static void main(String[] args) {
+        int result = (40 - 10) / 3;
+
+        System.out.println("Result of (40 - 10) / 3 = " + result);
+    }
+}
+```
+
+## Output
+```
+Result of (40 - 10) / 3 = 10
+```
